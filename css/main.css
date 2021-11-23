@@ -9,6 +9,7 @@ body{
 }
 p{
 	text-align: center;
+	color: blue;
 }
 .wrapper{
 	max-width: 1200px;
